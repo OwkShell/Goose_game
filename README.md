@@ -1,2 +1,7 @@
 # Goose_game
-A goose game with AI help
+## Initialisation des classes
+- gameHandler
+- createGame
+- playerId
+- basePlate
+- event
